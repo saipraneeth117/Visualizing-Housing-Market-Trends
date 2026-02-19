@@ -81,10 +81,8 @@ All phases contain PDF documentation that can be viewed with any PDF reader:
 - Final documentation and demo preparation
 
 ## Team Members
-- Ishaan Shaikh
-- Vishwajeet Pawar
-- Pranali Dhiwar
-- Tushar Badgujar
+- Sana Sai Praneeth
+- B Giri Yadav
 
 ## Results
 This project delivers comprehensive housing market trend visualizations that help stakeholders understand:
@@ -107,3 +105,4 @@ This project follows standard academic collaboration practices. For improvements
 - Tableau for visualization platform
 
 **Note:** For demo video and final report, refer to "8. Doc and Demo/" folder
+
